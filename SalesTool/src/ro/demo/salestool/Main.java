@@ -11,7 +11,7 @@ public class Main {
 	public static void main(String[] args) {
 
 		SalesData sd = new SalesData();
-		System.out.println("SalesData created: " + sd);
+		System.out.println("CEO: NO CAPS !!! \n\nSalesData created: " + sd);
 
 		
 		System.out.println("Hello world !");
