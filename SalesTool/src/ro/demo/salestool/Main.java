@@ -13,6 +13,8 @@ public class Main {
 		SalesData sd = new SalesData();
 		System.out.println("SalesData created: " + sd);
 
+		
+		System.out.println("Hello world !");
 	}
 
 }
